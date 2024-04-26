@@ -13,7 +13,7 @@
     "title": "Meat Satay",
     "cuisine_type": "Thai",
     "category": "Appetizer",
-    "description": "Marinated and grilled meat skewers served with a lovely dipping sauce",
+    "description": "Marinated in.... juices? Heavily grilled meat skewers served with a dipping sauce",
     "price": 6.99,
     "spicy_level": 3
   },
@@ -31,7 +31,7 @@
     "title": "Pork Tacos",
     "cuisine_type": "Mexican",
     "category": "Dinner",
-    "description": "Two soft tortillas filled with heavily seasoned pork, onions, and locally sourced greens",
+    "description": "Two cripy tortillas filled with heavily seasoned pork, stewed onions, and locally sourced greens",
     "price": 11.99,
     "spicy_level": 2
   },
@@ -40,7 +40,7 @@
     "title": "Green Curry",
     "cuisine_type": "Thai",
     "category": "Dinner",
-    "description": "A spicy Thai curry made with not expired milk, green chilies, chicken, and vegetables",
+    "description": "A spicy Thai curry made with tottally not expired milk, green chilies, chicken, and vegetables",
     "price": 13.99,
     "spicy_level": 4
   },
@@ -67,7 +67,7 @@
     "title": "Chicken Teriyaki Bowl",
     "cuisine_type": "Japanese",
     "category": "Lunch",
-    "description": "Grilled chicken, vegetables, and teriyaki sauce",
+    "description": "Grilled chicken, some leftover greens, and some sauce we found that tastes good",
     "price": 10.99,
     "spicy_level": 0
   },
